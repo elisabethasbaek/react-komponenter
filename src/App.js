@@ -1,6 +1,7 @@
 import "./style/App.css";
 import Articles from "./components/Articles";
 import PrettyBoxes from "./components/PrettyBoxes";
+import Collections from "./components/Collections";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <main className="main">
         <Articles />
         <PrettyBoxes />
+        <Collections />
       </main>
     </>
   )
