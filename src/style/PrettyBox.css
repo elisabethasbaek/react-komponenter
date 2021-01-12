@@ -1,5 +1,5 @@
 .prettyBox{
-    max-width: calc((900px / 4) - (2rem / 4));
+    max-width: 100%;
     max-height: calc((900px / 4) - (2rem / 4));
     background-color: red;
     display: grid;
