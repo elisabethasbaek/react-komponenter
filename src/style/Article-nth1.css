@@ -1,0 +1,26 @@
+.article:nth-of-type(1) .article__image{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.article:nth-of-type(1) .article__category{
+    padding: 1.5rem 1.5rem 0 1.5rem;
+}
+
+.article:nth-of-type(1) .article__heading{
+    padding: 0 1.5rem 0 1.5rem;
+    font-size: 1rem;
+}
+
+.article:nth-of-type(1) .article__text{
+    padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+.article:nth-of-type(1) .thumbnail1,
+.article:nth-of-type(1) .thumbnail2,
+.article:nth-of-type(1) .thumbnail3{
+    display: none;
+}

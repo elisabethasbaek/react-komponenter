@@ -1,0 +1,6 @@
+.articles{
+    grid-area: 1/1/2/4;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 1rem;
+}

@@ -1,0 +1,8 @@
+.main{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 1rem;
+    margin: 3rem 0;
+    justify-content: center;
+    background-color: #EAEAEA;
+}

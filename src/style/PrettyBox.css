@@ -1,0 +1,41 @@
+.prettyBox{
+    max-width: calc((900px / 4) - (2rem / 4));
+    max-height: calc((900px / 4) - (2rem / 4));
+    background-color: red;
+    display: grid;
+    padding: 1.5rem;
+    color: #FFFEFE;
+    border-radius: 10px;
+}
+
+.prettyBox__image{
+    max-width: 70px;
+    object-fit: cover;
+    justify-self: end;
+    padding-bottom: 1.5rem;
+}
+
+.prettyBox__heading{
+    margin: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    padding: 0.2rem 0;
+}
+
+.prettyBox__text{
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.prettyBox:nth-of-type(1){
+    background: #005AEE;
+}
+.prettyBox:nth-of-type(2){
+    background: #FFA767;
+}
+.prettyBox:nth-of-type(3){
+    background: #0AACDC;
+}
+.prettyBox:nth-of-type(4){
+    background: #597AEF;
+}

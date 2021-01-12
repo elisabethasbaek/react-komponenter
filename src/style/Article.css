@@ -1,0 +1,28 @@
+@import "./Article-nth1.css";
+@import "./Article-nth2.css";
+
+.article{
+    background-color: #FFF;
+    border-radius: 10px;
+}
+
+.article img{
+    max-width: 100%;
+}
+
+.article__category{
+    color: #4655A4;
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.article__heading{
+    color: #303336;
+    margin: 0;
+}
+
+.article__text{
+    color: #949CA6;
+    margin: 0;
+    font-size: 0.8rem;
+}

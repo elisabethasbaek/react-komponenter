@@ -1,0 +1,17 @@
+[
+    {
+        "image": "https://via.placeholder.com/1000x1000",
+        "category": "Travel",
+        "heading": "Surfing in Maldives",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+        "image": "https://via.placeholder.com/1000x1000",
+        "thumb1": "https://via.placeholder.com/600x600",
+        "thumb2": "https://via.placeholder.com/600x600",
+        "thumb3": "https://via.placeholder.com/600x600",
+        "category": "Leisure",
+        "heading": "Outdoor Experience",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    }
+]

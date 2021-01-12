@@ -1,0 +1,22 @@
+[
+    {
+        "image": "https://via.placeholder.com/300x300",
+        "heading": "On-Time Delivery",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+    },
+    {
+        "image": "https://via.placeholder.com/300x300",
+        "heading": "Parcels",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+    },
+    {
+        "image": "https://via.placeholder.com/300x300",
+        "heading": "Quality Check",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+    },
+    {
+        "image": "https://via.placeholder.com/300x300",
+        "heading": "Customer Service",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+    }
+]
