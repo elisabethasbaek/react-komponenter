@@ -19,6 +19,7 @@
 .env.production.local
 .vscode
 design
+guide-react-gh-pages
 
 npm-debug.log*
 yarn-debug.log*

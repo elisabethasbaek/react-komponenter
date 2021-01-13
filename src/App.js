@@ -3,6 +3,7 @@ import Articles from "./components/Articles";
 import PrettyBoxes from "./components/PrettyBoxes";
 import Collections from "./components/Collections";
 import LatestNews from "./components/LatestNews";
+import StandAloneNews from "./components/StandAloneNews";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Articles />
         <PrettyBoxes />
         <Collections />
+        <StandAloneNews />
         <LatestNews />
       </main>
     </>
