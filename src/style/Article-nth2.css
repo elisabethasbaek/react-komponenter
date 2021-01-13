@@ -15,12 +15,9 @@
     place-self: end;
     background-color: #005AEE;
     color: #FFFEFE;
-    text-transform: uppercase;
     max-width: 50px;
     border-radius: 15px;
     line-height: 1.6rem;
-    letter-spacing: 0.1rem;
-    font-size: 0.6rem;
 }
 
 .article:nth-of-type(2) .article__heading{
@@ -31,6 +28,7 @@
 
 .article:nth-of-type(2) .article__text{
     grid-area: 3/2/4/3;
+    align-self: center;
 }
 
 .article:nth-of-type(2) .article__thumbnails{

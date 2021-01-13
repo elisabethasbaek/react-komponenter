@@ -12,9 +12,10 @@
 }
 
 .article__category{
-    color: #4655A4;
     margin: 0;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
 }
 
 .article__heading{
