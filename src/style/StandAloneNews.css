@@ -3,7 +3,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-bottom: 1rem;
-    grid-gap: 1rem;
+}
+
+.standAloneNews>:nth-child(8){
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.standAloneNews>:nth-child(9){
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
 .standAloneNews>:nth-child(8)>:nth-child(2){
