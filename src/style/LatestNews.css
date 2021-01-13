@@ -36,6 +36,20 @@
     text-align: center;
 }
 
+.latestNews>:nth-child(2){
+    padding: 1rem 1rem 0.5rem 1rem;
+}
+
+.latestNews>:nth-child(6){
+    padding: 0.5rem 1rem 1rem 1rem;
+}
+
+.latestNews>:nth-child(3),
+.latestNews>:nth-child(4),
+.latestNews>:nth-child(5){
+    padding: 0.5rem 1rem;
+}
+
 .latestNews>:nth-child(2)>:nth-child(2){
     color: #4BC26E;
 }
