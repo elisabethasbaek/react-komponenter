@@ -1,0 +1,27 @@
+.latestNews{
+    grid-area: 4/3/7/4;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+
+.latestNews img{
+    max-width: 200px;
+}
+
+.latestNews__heading{
+    margin: 0;
+    background-color: #3F51B5;
+    text-transform: uppercase;
+}
+
+.latestNews>:nth-child(6),
+.latestNews>:nth-child(7),
+.latestNews>:nth-child(8),
+.latestNews>:nth-child(9),
+.latestNews>:nth-child(10),
+.latestNews>:nth-child(11),
+.latestNews>:nth-child(12),
+.latestNews>:nth-child(13),
+.latestNews>:nth-child(14){
+    display: none;
+}

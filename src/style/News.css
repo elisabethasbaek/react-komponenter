@@ -1,0 +1,35 @@
+.news{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    grid-template-rows: auto auto;
+    background-color: #FFF;
+    max-height: 120px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.news__image{
+    grid-area: 1/1/3/2;
+    border-radius: 25px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    padding: 1rem;
+}
+
+.news__heading{
+    grid-area: 1/2/2/3;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 2rem 0 0.5rem 0;
+    color: #303336;
+}
+
+.news__text{
+    grid-area: 2/2/3/3;
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 0 0 2rem 0;
+    color: #949CA6;
+}
