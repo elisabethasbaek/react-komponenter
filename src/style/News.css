@@ -22,14 +22,19 @@
     text-transform: uppercase;
     font-size: 0.8rem;
     margin: 0;
-    padding: 2rem 0 0.5rem 0;
+    padding: 1.6rem 0 0.5rem 0;
     color: #303336;
 }
 
 .news__text{
     grid-area: 2/2/3/3;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin: 0;
     padding: 0 0 2rem 0;
     color: #949CA6;
+}
+
+.news__heading,
+.news__text{
+    padding-right: 1rem;
 }

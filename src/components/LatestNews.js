@@ -24,7 +24,7 @@ function LatestNews() {
                         return <News image={image} heading={heading} text={text} key={i} />
                     })}
 
-                <a className="latestNews__moreNews">More news</a>
+                <p className="latestNews__moreNews">More news</p>
             </section>
         </>
     )
