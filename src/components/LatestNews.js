@@ -21,8 +21,8 @@ function LatestNews() {
                 <h1 className="latestNews__heading">Latest news</h1>
 
                 {content.map(function({image, heading, text}, i){
-                        return <News image={image} heading={heading} text={text} key={i} />
-                    })}
+                    return <News image={image} heading={heading} text={text} key={i} />
+                })}
 
                 <p className="latestNews__moreNews">More news</p>
             </section>
