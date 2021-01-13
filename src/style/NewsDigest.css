@@ -1,0 +1,80 @@
+/* styling på den her var en bitch, så den er grim...... sorry */
+
+.newsDigest{
+    grid-area: 7/2/11/3;
+    background-color: #FFF;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.newsDigest__heading{
+    background-color: #3CA773;
+    margin: 0 0 2rem 0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: #FFFEFE;
+    text-transform: uppercase;
+    font-size: 1rem;
+    padding: 0.8rem 0;
+}
+
+.newsDigest img{
+    display: none;
+}
+
+.newsDigest p{
+    padding-bottom: 1rem;
+}
+
+.newsDigest>:nth-child(2),
+.newsDigest>:nth-child(4),
+.newsDigest>:nth-child(7){
+    border-bottom: 1px solid #EBEBEB;
+}
+
+.newsDigest>:nth-child(2)>:nth-child(2)::before{
+    content: " 1 \A ";
+    background-color: #D9A34A;
+}
+.newsDigest>:nth-child(4)>:nth-child(2)::before{
+    content: " 2 \A ";
+    background-color: #007AC2;
+}
+.newsDigest>:nth-child(7)>:nth-child(2)::before{
+    content: " 3 \A ";
+    background-color: #3CA773;
+}
+.newsDigest>:nth-child(8)>:nth-child(2)::before{
+    content: " 4 \A ";
+    background-color: #53BBB3;
+}
+
+.newsDigest>:nth-child(2)>:nth-child(2)::before,
+.newsDigest>:nth-child(4)>:nth-child(2)::before,
+.newsDigest>:nth-child(7)>:nth-child(2)::before,
+.newsDigest>:nth-child(8)>:nth-child(2)::before{
+    white-space: pre;
+    color: #FFF;
+    padding: 0.2rem 0.25rem;
+    border-radius: 50px;
+}
+
+.newsDigest>:nth-child(2)>:nth-child(2),
+.newsDigest>:nth-child(4)>:nth-child(2),
+.newsDigest>:nth-child(7)>:nth-child(2),
+.newsDigest>:nth-child(8)>:nth-child(2){
+    line-height: 1.7rem;
+}
+
+.newsDigest>:nth-child(3),
+.newsDigest>:nth-child(5),
+.newsDigest>:nth-child(6),
+.newsDigest>:nth-child(9),
+.newsDigest>:nth-child(10),
+.newsDigest>:nth-child(11),
+.newsDigest>:nth-child(12),
+.newsDigest>:nth-child(13),
+.newsDigest>:nth-child(14),
+.newsDigest>:nth-child(15){
+    display: none;
+}
