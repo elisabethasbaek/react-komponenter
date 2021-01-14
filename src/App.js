@@ -5,6 +5,8 @@ import Collections from "./components/Collections";
 import StandAloneNews from "./components/StandAloneNews";
 import LatestNews from "./components/LatestNews";
 import NewsDigest from "./components/NewsDigest";
+import Gallery from "./components/Gallery";
+import PrettyNewsPlural from "./components/PrettyNewsPlural";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <StandAloneNews />
         <LatestNews />
         <NewsDigest />
+        <Gallery />
+        <PrettyNewsPlural />
       </main>
     </>
   )
