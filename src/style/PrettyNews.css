@@ -1,0 +1,22 @@
+.prettyNews{
+    display: grid;
+}
+
+.prettyNews__image{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.prettyNews__heading{
+    margin: 0;
+}
+
+.prettyNews__text{
+    margin: 0;
+}
+
+.prettyNews__image,
+.prettyNews__heading,
+.prettyNews__text{
+    grid-area: 1/1/2/2;
+}
