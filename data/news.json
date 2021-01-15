@@ -25,7 +25,7 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/clipboard.png",
         "heading": "Design",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
@@ -45,27 +45,27 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/02.jpg",
         "heading": "Architecture",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/03.jpg",
         "heading": "Travel & leisure",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/04.jpg",
         "heading": "Greenery",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/01.jpg",
         "heading": "Beacher",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/clipboard.png",
         "heading": "Education",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     }

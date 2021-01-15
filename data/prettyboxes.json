@@ -1,21 +1,21 @@
 [
     {
-        "image": "https://via.placeholder.com/300x300",
+        "image": "./images/clipboard.png",
         "heading": "On-Time Delivery",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
     },
     {
-        "image": "https://via.placeholder.com/300x300",
+        "image": "./images/clipboard.png",
         "heading": "Parcels",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
     },
     {
-        "image": "https://via.placeholder.com/300x300",
+        "image": "./images/clipboard.png",
         "heading": "Quality Check",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
     },
     {
-        "image": "https://via.placeholder.com/300x300",
+        "image": "./images/clipboard.png",
         "heading": "Customer Service",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
     }
