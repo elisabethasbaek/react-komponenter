@@ -17,6 +17,23 @@
     border-radius: 10px;
 }
 
+.virtualReality__category{
+    align-self: end;
+    color: #D9A34A;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+    text-align: end;
+    padding: 0 1.5rem 0.5rem 0;
+}
+
+.virtualReality__heading{
+    margin: 0;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
 .virtualReality__image,
 .virtualReality__category,
 .virtualReality__heading{

@@ -20,8 +20,8 @@ function VirtualReality() {
                 return (
                     <div key={i}>
                         <img src={image} alt="" className="virtualReality__image"/>
-                        <h1 className="virtualReality__category">Virtual Reality</h1>
-                        <p className="virtualReality__heading">{heading}</p>
+                        <h1 className="virtualReality__heading">Virtual Reality</h1>
+                        <p className="virtualReality__category">{heading}</p>
                     </div>
                     )
             })}

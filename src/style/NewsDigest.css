@@ -55,6 +55,7 @@
     color: #FFF;
     padding: 0.2rem 0.25rem;
     border-radius: 50px;
+    text-transform: capitalize;
 }
 
 .newsDigest>:nth-child(2)>:nth-child(2),
