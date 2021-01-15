@@ -1,6 +1,6 @@
 [
     {
-        "image": "https://via.placeholder.com/1000x600",
+        "image": "./images/17.jpg",
         "category": "The New York Times",
         "heading": "Must see places for summer",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
@@ -12,7 +12,7 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     },
     {
-        "image": "https://via.placeholder.com/1000x600",
+        "image": "./images/14.jpg",
         "category": "The New York Times",
         "heading": "",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"

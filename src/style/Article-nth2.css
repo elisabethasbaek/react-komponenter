@@ -31,6 +31,12 @@
     align-self: center;
 }
 
+.article:nth-of-type(2) .article__thumbnails img{
+    max-width: 100%;
+    height: 85px;
+    object-fit: cover;
+}
+
 .article:nth-of-type(2) .article__thumbnails{
     grid-area: 4/2/5/3;
     display: grid;

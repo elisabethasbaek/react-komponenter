@@ -1,15 +1,15 @@
 [
     {
-        "image": "https://via.placeholder.com/1000x1000",
+        "image": "./images/01.jpg",
         "category": "Travel",
         "heading": "Surfing in Maldives",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     },
     {
-        "image": "https://via.placeholder.com/1000x1000",
-        "thumb1": "https://via.placeholder.com/600x600",
-        "thumb2": "https://via.placeholder.com/600x600",
-        "thumb3": "https://via.placeholder.com/600x600",
+        "image": "./images/12.jpg",
+        "thumb1": "./images/03.jpg",
+        "thumb2": "./images/12.jpg",
+        "thumb3": "./images/07.jpg",
         "category": "Leisure",
         "heading": "Outdoor Experience",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"

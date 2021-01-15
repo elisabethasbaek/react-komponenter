@@ -1,31 +1,31 @@
 [
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/13.jpg",
         "heading": "Nature",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/06.jpg",
         "heading": "Animal kingdom",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/16.jpg",
         "heading": "Technology",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/09.jpg",
         "heading": "Explore",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/05.jpg",
         "heading": "Africa zoo",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "image": "./images/clipboard.png",
+        "image": "./images/icon01.png",
         "heading": "Design",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
@@ -35,12 +35,12 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/11.jpg",
         "heading": "Food & lifestyle",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
-        "image": "https://via.placeholder.com/1000x800",
+        "image": "./images/10.jpg",
         "heading": "Fashion",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
@@ -65,7 +65,7 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     },
     {
-        "image": "./images/clipboard.png",
+        "image": "./images/icon02.png",
         "heading": "Education",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
     }

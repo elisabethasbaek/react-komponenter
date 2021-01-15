@@ -4,6 +4,15 @@
     grid-gap: 1rem;
 }
 
+.newYorkSimpleArticles>:nth-child(2)>img{
+    filter: opacity(0);
+}
+
+.newYorkSimpleArticles>:nth-child(2){
+    background-color: #FFF;
+    border-radius: 10px;
+}
+
 .newYorkSimpleArticles>:nth-child(1),
 .newYorkSimpleArticles>:nth-child(4){
     display: none;
