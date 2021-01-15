@@ -2,6 +2,11 @@
     grid-area:9/1/10/2;
 }
 
+.virtualReality:hover{
+    transform: scale(1.01);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+}
+
 .virtualReality>div{
     display: grid;
 }
