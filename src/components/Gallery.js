@@ -20,8 +20,8 @@ function Gallery() {
                 return (
                     <div key={i}>
                         <img src={image} alt="" className="gallery__image"/>
-                        <h1 className="gallery__heading">{heading}</h1>
                         <p className="gallery__category">{category}</p>
+                        <h1 className="gallery__heading">{heading}</h1>
                         <p className="gallery__text">{text}</p>
                     </div>
                     )

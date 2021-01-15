@@ -7,6 +7,7 @@ import LatestNews from "./components/LatestNews";
 import NewsDigest from "./components/NewsDigest";
 import Gallery from "./components/Gallery";
 import PrettyNewsPlural from "./components/PrettyNewsPlural";
+import TinyNews from "./components/TinyNews";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <NewsDigest />
         <Gallery />
         <PrettyNewsPlural />
+        <TinyNews />
       </main>
     </>
   )
