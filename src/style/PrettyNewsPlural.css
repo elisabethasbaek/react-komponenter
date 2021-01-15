@@ -8,9 +8,16 @@
 .prettyNewsPlural>:nth-child(10){
     grid-area: 1/1/2/2;
 }
+.prettyNewsPlural>:nth-child(10)>:nth-child(2)>:nth-child(1){
+    color: #F9D336;
+}
 
 .prettyNewsPlural>:nth-child(11){
     grid-area: 1/2/2/3;
+}
+
+.prettyNewsPlural>:nth-child(11)>:nth-child(2)>:nth-child(1){
+    color: #C5D6F2;
 }
 
 .prettyNewsPlural>:nth-child(12){

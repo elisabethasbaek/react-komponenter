@@ -12,14 +12,14 @@
 .prettyNews__heading{
     margin: 0;
     text-transform: uppercase;
-    font-size: 0.9rem;
-    padding: 1.5rem 1.5rem 0 1.5rem;
+    font-size: 0.8rem;
+    padding: 1.5rem 1.5rem 1rem 1.5rem;
 
 }
 
 .prettyNews__text{
     margin: 0;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     padding: 0;
     max-width: 100%;
     padding: 0 1.5rem 1.5rem 1.5rem;
