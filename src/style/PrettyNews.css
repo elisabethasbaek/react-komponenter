@@ -3,20 +3,33 @@
 }
 
 .prettyNews__image{
-    max-width: 100%;
+    width: 100%;
     border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
 }
 
 .prettyNews__heading{
     margin: 0;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    padding: 1.5rem 1.5rem 0 1.5rem;
+
 }
 
 .prettyNews__text{
     margin: 0;
+    font-size: 0.9rem;
+    padding: 0;
+    max-width: 100%;
+    padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+.prettyNews__textContainer{
+    color: #FFFEFE;
 }
 
 .prettyNews__image,
-.prettyNews__heading,
-.prettyNews__text{
+.prettyNews__textContainer{
     grid-area: 1/1/2/2;
 }

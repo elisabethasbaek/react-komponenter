@@ -8,6 +8,8 @@ import NewsDigest from "./components/NewsDigest";
 import Gallery from "./components/Gallery";
 import PrettyNewsPlural from "./components/PrettyNewsPlural";
 import TinyNews from "./components/TinyNews";
+import VirtualReality from "./components/VirtualReality";
+import NewYorkSimpleArticles from "./components/NewYorkSimpleArticles";
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
         <Gallery />
         <PrettyNewsPlural />
         <TinyNews />
+        <VirtualReality />
+        <NewYorkSimpleArticles />
       </main>
     </>
   )

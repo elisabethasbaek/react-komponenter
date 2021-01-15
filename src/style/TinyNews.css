@@ -47,6 +47,7 @@
 .tinyNews>:nth-child(10),
 .tinyNews>:nth-child(11),
 .tinyNews>:nth-child(12),
-.tinyNews>:nth-child(13){
+.tinyNews>:nth-child(13),
+.tinyNews>:nth-child(15){
     display: none;
 }

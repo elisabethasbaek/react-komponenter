@@ -1,0 +1,20 @@
+.newYorkSimpleArticle{
+    display: grid;
+}
+
+.newYorkSimpleArticle__textContainer{
+    padding: 1.5rem;
+}
+
+.newYorkSimpleArticle__image,
+.newYorkSimpleArticle__textContainer{
+    grid-area: 1/1/-1/-1;
+}
+
+.newYorkSimpleArticle__image{
+    max-width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+
+}

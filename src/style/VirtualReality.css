@@ -1,0 +1,36 @@
+.virtualReality{
+    grid-area:9/1/10/2;
+}
+
+.virtualReality>div{
+    display: grid;
+}
+
+.virtualReality img{
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.virtualReality__image,
+.virtualReality__category,
+.virtualReality__heading{
+    grid-area: 1/1/-1/-1;
+}
+
+.virtualReality>:nth-child(1),
+.virtualReality>:nth-child(2),
+.virtualReality>:nth-child(4),
+.virtualReality>:nth-child(5),
+.virtualReality>:nth-child(6),
+.virtualReality>:nth-child(7),
+.virtualReality>:nth-child(8),
+.virtualReality>:nth-child(9),
+.virtualReality>:nth-child(10),
+.virtualReality>:nth-child(11),
+.virtualReality>:nth-child(12),
+.virtualReality>:nth-child(13),
+.virtualReality>:nth-child(14),
+.virtualReality>:nth-child(15){
+    display: none;
+}

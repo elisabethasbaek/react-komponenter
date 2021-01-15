@@ -75,6 +75,7 @@
 .newsDigest>:nth-child(12),
 .newsDigest>:nth-child(13),
 .newsDigest>:nth-child(14),
-.newsDigest>:nth-child(15){
+.newsDigest>:nth-child(15),
+.newsDigest>:nth-child(16){
     display: none;
 }

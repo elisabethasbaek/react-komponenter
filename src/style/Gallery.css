@@ -33,6 +33,7 @@
 .gallery__image{
     grid-area: 1/1/-1/-1;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .gallery>:nth-child(2),

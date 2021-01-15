@@ -5,8 +5,10 @@ function PrettyNews({image, heading, text}) {
         <>
             <article className="prettyNews">
                 <img src={image} alt="" className="prettyNews__image"/>
-                <h1 className="prettyNews__heading">{heading}</h1>
-                <p className="prettyNews__text">{text}</p>
+                <div className="prettyNews__textContainer">
+                    <h1 className="prettyNews__heading">{heading}</h1>
+                    <p className="prettyNews__text">{text}</p>
+                </div>
             </article>
         </>
     )

@@ -1,0 +1,10 @@
+.newYorkSimpleArticles{
+    grid-area: 7/3/11/4;
+    display: grid;
+    grid-gap: 1rem;
+}
+
+.newYorkSimpleArticles>:nth-child(1),
+.newYorkSimpleArticles>:nth-child(4){
+    display: none;
+}
